@@ -1,0 +1,11 @@
+-Relatorios
+ .Lista de Colaboradores
+  - Filtros -> Por nome, por Ativo/Inativo.
+ .Lista de Equipamentos
+  - Filtros -> Por nome equipamento, por espécie, por Ativo/Inativo.
+ .Lista de Locações
+  - Filtros -> Por data locacao, por data devolucao, por colaborador, por equipamento, por especie.
+
+-Validações
+ .Validar Campo E-Mail;
+ . Try Exceptions.

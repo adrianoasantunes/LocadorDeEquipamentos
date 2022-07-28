@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/08 10:32:32.500.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\frmPrincipal.pas</Transaction>
+    <Transaction>2022/07/08 10:32:32.500.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\frmPrincipal.dfm</Transaction>
+    <Transaction>2022/07/08 10:35:01.527.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\frmPrincipal.pas=</Transaction>
+    <Transaction>2022/07/08 10:35:01.527.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\frmPrincipal.dfm=</Transaction>
+    <Transaction>2022/07/08 10:35:25.235.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdPrincipal.pas</Transaction>
+    <Transaction>2022/07/08 10:35:25.235.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdPrincipal.dfm</Transaction>
+    <Transaction>2022/07/08 10:36:30.385.dproj,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\LocacaoEquipamentos.dproj</Transaction>
+    <Transaction>2022/07/11 09:40:02.606.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdDM1.pas</Transaction>
+    <Transaction>2022/07/11 09:40:02.606.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdDM1.dfm</Transaction>
+    <Transaction>2022/07/11 10:47:02.027.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroColaborador.pas</Transaction>
+    <Transaction>2022/07/11 10:47:02.027.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroColaborador.dfm</Transaction>
+    <Transaction>2022/07/11 15:41:28.695.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroEquipamento.pas</Transaction>
+    <Transaction>2022/07/11 15:41:28.695.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroEquipamento.dfm</Transaction>
+    <Transaction>2022/07/12 08:47:45.102.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdColaborador.pas</Transaction>
+    <Transaction>2022/07/12 08:47:45.102.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdColaborador.dfm</Transaction>
+    <Transaction>2022/07/12 09:05:15.847.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroColaborador.pas=</Transaction>
+    <Transaction>2022/07/12 09:05:15.847.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroColaborador.dfm=</Transaction>
+    <Transaction>2022/07/12 09:24:11.941.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdEquipamento.pas</Transaction>
+    <Transaction>2022/07/12 09:24:11.941.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdEquipamento.dfm</Transaction>
+    <Transaction>2022/07/12 09:44:14.186.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroEquipamento.pas=</Transaction>
+    <Transaction>2022/07/12 09:44:14.186.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdCadastroEquipamento.dfm=</Transaction>
+    <Transaction>2022/07/12 10:49:13.652.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdLocacao.pas</Transaction>
+    <Transaction>2022/07/12 10:49:13.652.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdLocacao.dfm</Transaction>
+    <Transaction>2022/07/19 22:24:03.613.pas,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.pas=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdRelatorio.pas</Transaction>
+    <Transaction>2022/07/19 22:24:03.613.dfm,C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\Unit1.dfm=C:\Users\adriano.antunes\Documents\RAD Studio\Projects\LocacaoEquipamentos\pdRelatorio.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
