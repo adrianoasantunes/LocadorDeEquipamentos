@@ -1,0 +1,19 @@
+program LocacaoEquipamentos;
+
+uses
+  Forms,
+  pdPrincipal in 'pdPrincipal.pas' {frmPrincipal},
+  pdDM1 in 'pdDM1.pas' {DM1: TDataModule},
+  pdColaborador in 'pdColaborador.pas' {frmColaborador},
+  pdEquipamento in 'pdEquipamento.pas' {frmEquipamentos},
+  pdLocacao in 'pdLocacao.pas' {frmLocacao};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TDM1, DM1);
+  Application.Run;
+end.

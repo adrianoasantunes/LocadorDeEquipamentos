@@ -1,0 +1,66 @@
+unit pdDM1;
+
+interface
+
+uses
+  SysUtils, Classes, ZConnection, DB, ZAbstractRODataset, ZAbstractDataset,
+  ZDataset;
+
+type
+  TDM1 = class(TDataModule)
+    SQLDMConexao: TZConnection;
+    tbColaborador: TZQuery;
+    tbEquipamento: TZQuery;
+    tbEspecie: TZQuery;
+    tbLocacao: TZQuery;
+    tbEspecieseqespecie: TIntegerField;
+    tbEspecieespecie: TStringField;
+    tbEquipamentosDisponiveis: TZQuery;
+    tbEquipamentosIndisponiveis: TZQuery;
+    tbEquipamentosIndisponiveisseqcolaborador: TIntegerField;
+    tbEquipamentosIndisponiveisseqequipamento: TIntegerField;
+    tbEquipamentosIndisponiveisnome: TStringField;
+    tbEquipamentosIndisponiveisseqespecie: TIntegerField;
+    tbEquipamentosIndisponiveisespecie: TStringField;
+    tbEquipamentosIndisponiveisdtalocacao: TDateField;
+    tbEquipamentosIndisponiveisdtadevolucao: TDateField;
+    tbEquipamentosDBGridEquipamento: TZQuery;
+    tbLocacaoseqcolaborador: TIntegerField;
+    tbLocacaoseqequipamento: TIntegerField;
+    tbLocacaodtalocacao: TDateField;
+    tbLocacaodtadevolucao: TDateField;
+    tbEquipamentosDisponiveisseqequipamento: TIntegerField;
+    tbEquipamentosDisponiveisnome: TStringField;
+    tbEquipamentosDisponiveisseqespecie: TIntegerField;
+    tbEquipamentosDisponiveisespecie: TStringField;
+    tbEquipamentoseqequipamento: TIntegerField;
+    tbEquipamentonome: TStringField;
+    tbEquipamentoseqespecie: TIntegerField;
+    tbEquipamentosituacao: TStringField;
+    tbColaboradorseqcolaborador: TIntegerField;
+    tbColaboradornome: TStringField;
+    tbColaboradorsexo: TStringField;
+    tbColaboradordecode_sexo: TStringField;
+    tbColaboradordtanascimento: TDateField;
+    tbColaboradoremail: TStringField;
+    tbColaboradorsituacao: TStringField;
+    tbColaboradordecode_situacao: TStringField;
+    tbEquipamentosDBGridEquipamentoseqequipamento: TIntegerField;
+    tbEquipamentosDBGridEquipamentonome: TStringField;
+    tbEquipamentosDBGridEquipamentoseqespecie: TIntegerField;
+    tbEquipamentosDBGridEquipamentoespecie: TStringField;
+    tbEquipamentosDBGridEquipamentosituacao: TStringField;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DM1: TDM1;
+
+implementation
+
+{$R *.dfm}
+
+end.

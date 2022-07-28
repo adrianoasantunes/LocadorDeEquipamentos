@@ -1,0 +1,48 @@
+unit pdCadastroEquipamento;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, DB, Grids, DBGrids, StdCtrls, DBCtrls, Buttons, ExtCtrls;
+
+type
+  TfrmCadEquipamento = class(TForm)
+    PanPrincipalCadEquip: TPanel;
+    GroupBoxCadEquip: TGroupBox;
+    LabSeqequipamento: TLabel;
+    Lab: TLabel;
+    GroupBoxOptCadColab: TGroupBox;
+    SpeedBNovo: TSpeedButton;
+    SpeedBEditar: TSpeedButton;
+    SpeedBExcluir: TSpeedButton;
+    SpeedBSalvar: TSpeedButton;
+    SpeedBCancelar: TSpeedButton;
+    Label1: TLabel;
+    Label2: TLabel;
+    DBLookupComboBox1: TDBLookupComboBox;
+    EdNome: TEdit;
+    DBGridColaborador: TDBGrid;
+    dsEquipamento: TDataSource;
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCadEquipamento: TfrmCadEquipamento;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmCadEquipamento.FormClose(Sender: TObject;
+  var Action: TCloseAction);
+begin
+  frmPrincipal.Show;
+  frmCadColaborador.Show;
+end;
+
+end.
